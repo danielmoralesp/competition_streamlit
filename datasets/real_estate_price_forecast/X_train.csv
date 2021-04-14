@@ -1,0 +1,6 @@
+pais,rooms,bedrooms,bathrooms,surface_total,price,train
+Argentina,2.0,1.0,1.0,37.0,85000.0,1
+Argentina,6.0,4.0,4.0,300.0,1590000.0,1
+Colombia,3.0,3.0,3.0,95.0,85329.0,1
+Colombia,3.0,3.0,1.0,60.0,22846.0,1
+Argentina,3.0,2.0,1.0,45.0,80000.0,1
